@@ -3,7 +3,7 @@
 // COMMENT: How is this data utilized within our blog app? What is the structure of this data (your response should include the terms "object", "array", and "key/value pairs")?
 // PUT YOUR RESPONSE HERE
 
-let rawData = [
+// let rawData = [] array of objects with key value pairs
   {
     title:       'Bob Ross Ipsum',
     category:    'art',
